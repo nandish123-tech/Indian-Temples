@@ -1,0 +1,63 @@
+.bg{
+    background-image:url("https://www.poojn.in/wp-content/uploads/2025/02/Govindaraja-Temple-History-Architecture-and-Significance.jpeg.jpg");
+    background-size:cover;
+    height:150vh;
+    padding: 20px;
+    margin:10px;
+}
+.heading{
+    color:whitesmoke;
+    font-size:38px;
+    font-weight: bold;
+    font-family:'Times New Roman', Times, serif;
+    padding: 20px;
+    text-align: center;
+    text-decoration: solid;
+
+}
+.para{
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: 800;
+    padding: 5px;
+    text-align: center;
+    text-shadow: 10px;
+    text-decoration: double;
+}
+.card{
+    height:400px;
+    width:400px;
+    background-color: aqua;
+    border-radius: 15px;
+    padding: 20px;
+    border-width: 5px;
+    border-color:black;
+    margin:20px;
+
+}
+
+.img{
+    height: 200px;
+    width:200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 5px;
+    
+
+}
+.head{
+    font-family:Cambria,Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    font-weight: 900;
+    color:rgb(45, 24, 24);
+    text-decoration: dotted;
+}
+.pa{
+    color: black;
+    font-family: "Roboto";
+    font-size: 15px;
+    font-weight: 700;
+    padding: 20px;
+}
